@@ -1,0 +1,167 @@
+.masterBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f1f1f1;
+  width: 1650px;
+  height: 1080px;
+}
+.topLeftProfile {
+  position: absolute;
+  top: 20px;
+  left: 1573px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.metalToggleChild,
+.metalToggleItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 302px;
+  height: 36px;
+}
+.metalToggleItem {
+  background-color: var(--color-white);
+  width: 103px;
+}
+.both,
+.gold,
+.silver {
+  position: absolute;
+  top: 4px;
+  font-weight: 500;
+}
+.gold {
+  left: 21px;
+  color: var(--color-darkslategray);
+}
+.both,
+.silver {
+  left: 224px;
+}
+.silver {
+  left: 134px;
+}
+.metalToggle {
+  position: absolute;
+  top: 101px;
+  left: 299px;
+  width: 302px;
+  height: 36px;
+}
+.searchKarigarChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  width: 446px;
+  height: 41px;
+}
+.searchKarigarItem {
+  position: absolute;
+  top: 2px;
+  left: 469px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslategray);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 98px;
+  height: 38px;
+}
+.search,
+.searchKarigar1 {
+  position: absolute;
+  top: 9px;
+  left: 485px;
+  display: inline-block;
+  width: 67px;
+}
+.searchKarigar1 {
+  top: 6px;
+  left: 21px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-silver);
+  width: 203.28px;
+  height: 29.03px;
+}
+.searchKarigar {
+  position: absolute;
+  top: 346px;
+  left: 293px;
+  width: 567px;
+  height: 41px;
+  font-size: var(--font-size-xl);
+}
+.deleteButtonIcon {
+  position: absolute;
+  height: 2.57%;
+  width: 1.68%;
+  top: 44.44%;
+  right: 6.44%;
+  bottom: 52.99%;
+  left: 91.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addKarigarButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: #142562;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 139px;
+  height: 27px;
+}
+.addKarigar,
+.vectorIcon {
+  position: absolute;
+  top: 4px;
+  left: 31px;
+}
+.vectorIcon {
+  height: 55.56%;
+  width: 10.79%;
+  top: 22.22%;
+  right: 80.58%;
+  bottom: 22.22%;
+  left: 8.63%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.addKarigarButton {
+  position: absolute;
+  top: 188px;
+  left: 439px;
+  width: 139px;
+  height: 27px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.dimmingRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.8);
+  width: 1650px;
+  height: 1080px;
+}
+.addPartyPopupWithoutDropdo {
+  position: relative;
+  width: 100%;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke-100);
+  font-family: var(--font-sf-pro);
+}

@@ -1,0 +1,124 @@
+.tableHeadingChild,
+.tableRectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1309px;
+  height: 668px;
+}
+.tableHeadingChild {
+  background-color: var(--color-gainsboro);
+  height: 57px;
+}
+.div,
+.karigarName {
+  position: absolute;
+  top: 19px;
+  left: 166px;
+  font-weight: 500;
+}
+.div {
+  left: 21px;
+  text-transform: uppercase;
+}
+.actions,
+.amount,
+.gold,
+.mobileNumber,
+.silver {
+  position: absolute;
+  top: 19px;
+  left: 441px;
+  font-weight: 500;
+}
+.actions,
+.amount,
+.gold,
+.silver {
+  left: 675px;
+}
+.actions,
+.amount,
+.silver {
+  left: 846px;
+}
+.actions,
+.amount {
+  left: 1015px;
+}
+.actions {
+  left: 1179px;
+}
+.tableHeading {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1309px;
+  height: 57px;
+}
+.div1,
+.mukeshSingh {
+  position: absolute;
+  top: 7px;
+  left: 145px;
+}
+.div1 {
+  left: 0;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.div2,
+.div3,
+.gm,
+.kg {
+  position: absolute;
+  top: 7px;
+  left: 432px;
+}
+.div3,
+.gm,
+.kg {
+  left: 633px;
+  color: var(--color-yellowgreen);
+}
+.div3,
+.kg {
+  left: 825px;
+  color: var(--color-brown);
+}
+.div3 {
+  left: 978px;
+}
+.mdieditBoxIcon {
+  position: absolute;
+  top: 0;
+  left: 1156px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.tableFirstEntry {
+  position: absolute;
+  top: 63px;
+  left: 21px;
+  width: 1193px;
+  height: 37px;
+}
+.karigarSummaryPageTable,
+.tableLinesIcon {
+  position: absolute;
+  top: 0;
+  left: -2px;
+  width: 1313px;
+  height: 668px;
+}
+.karigarSummaryPageTable {
+  top: 412px;
+  left: 293px;
+  width: 1309px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-sf-pro);
+}

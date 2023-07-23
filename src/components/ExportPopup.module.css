@@ -1,0 +1,195 @@
+.excel {
+  position: absolute;
+  top: 9px;
+  left: 16px;
+}
+.pdf1 {
+  margin: 0;
+}
+.pdf {
+  position: absolute;
+  top: 9px;
+  left: 116px;
+}
+.detailed,
+.summary {
+  position: absolute;
+  top: 57px;
+  left: 16px;
+  color: var(--color-slategray);
+}
+.summary {
+  left: 139px;
+}
+.exportPopupChild {
+  position: absolute;
+  top: 9px;
+  left: 71px;
+  border-radius: 50%;
+  border: 1px solid var(--color-darkslategray);
+}
+.exportPopupChild,
+.exportPopupInner,
+.exportPopupItem {
+  background-color: var(--color-white);
+  box-sizing: border-box;
+  width: 23px;
+  height: 23px;
+}
+.exportPopupItem {
+  position: absolute;
+  top: 9px;
+  left: 160px;
+  border-radius: 50%;
+  border: 1px solid var(--color-darkslategray);
+}
+.exportPopupInner {
+  top: 57px;
+  left: 100px;
+  border: 1px solid var(--color-slategray);
+}
+.ellipseDiv,
+.exportPopupChild1,
+.exportPopupInner {
+  position: absolute;
+  border-radius: 50%;
+}
+.ellipseDiv {
+  top: 57px;
+  left: 234px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-slategray);
+  box-sizing: border-box;
+  width: 23px;
+  height: 23px;
+}
+.exportPopupChild1 {
+  top: 13px;
+  left: 75px;
+  background-color: var(--color-darkslategray);
+  width: 15px;
+  height: 15px;
+}
+.exportPopupChild2,
+.rectangleDiv {
+  position: absolute;
+  background-color: var(--color-slategray);
+}
+.exportPopupChild2 {
+  top: 61px;
+  left: 104px;
+  border-radius: 50%;
+  width: 15px;
+  height: 15px;
+}
+.rectangleDiv {
+  top: 45px;
+  left: 1px;
+  width: 285px;
+  height: 1px;
+}
+.exportButtonChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 86px;
+  height: 25px;
+}
+.export {
+  position: absolute;
+  top: 4px;
+  left: 29px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-sf-pro);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+}
+.vectorIcon {
+  position: absolute;
+  height: 52%;
+  width: 11.83%;
+  top: 20%;
+  right: 75.27%;
+  bottom: 28%;
+  left: 12.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.exportButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 104px;
+  left: 16px;
+  width: 93px;
+  height: 25px;
+}
+.exportButtonItem {
+  position: relative;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+  width: 86px;
+  height: 25px;
+}
+.print {
+  position: relative;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-sf-pro);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  flex-shrink: 0;
+  margin-left: -57px;
+}
+.exportButton1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 104px;
+  left: 116px;
+  width: 93px;
+  height: 25px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.materialSymbolsprintOutlineIcon {
+  position: absolute;
+  top: 109px;
+  left: 125px;
+  width: 15px;
+  height: 15px;
+  overflow: hidden;
+}
+.exportPopup {
+  position: absolute;
+  top: 187px;
+  left: 1312px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-slategray);
+  box-sizing: border-box;
+  width: 287px;
+  height: 145px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-sf-pro);
+}

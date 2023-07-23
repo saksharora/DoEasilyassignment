@@ -1,0 +1,371 @@
+.karigarPopupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-white);
+  width: 1217px;
+  height: 800px;
+}
+.addParty,
+.name {
+  position: absolute;
+}
+.addParty {
+  top: 25px;
+  left: 30px;
+  font-size: var(--font-size-13xl);
+  font-weight: 600;
+  color: var(--color-slategray);
+}
+.name {
+  top: 221px;
+  left: 130px;
+  font-weight: 500;
+}
+.karigarPopupItem {
+  top: 261px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.gstin,
+.karigarPopupInner,
+.karigarPopupItem {
+  position: absolute;
+  left: 130px;
+}
+.gstin {
+  top: 516px;
+  font-weight: 500;
+}
+.karigarPopupInner {
+  top: 556px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.panNumber,
+.rectangleDiv {
+  position: absolute;
+  left: 497px;
+}
+.panNumber {
+  top: 515px;
+  font-weight: 500;
+}
+.rectangleDiv {
+  top: 555px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.aadhaar {
+  position: absolute;
+  top: 515px;
+  left: 864px;
+  font-weight: 500;
+}
+.karigarPopupChild1 {
+  position: absolute;
+  top: 555px;
+  left: 864px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.enterName {
+  position: absolute;
+  top: 271px;
+  left: 143px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.partyGroups {
+  position: absolute;
+  top: 93px;
+  left: 130px;
+  font-weight: 500;
+}
+.karigarPopupChild2 {
+  position: absolute;
+  top: 133px;
+  left: 130px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.selectPartyGroups {
+  position: absolute;
+  top: 143px;
+  left: 143px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.phoneNumber {
+  position: absolute;
+  top: 219px;
+  left: 496px;
+  font-weight: 500;
+}
+.karigarPopupChild3 {
+  position: absolute;
+  top: 259px;
+  left: 496px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.enter10Digit,
+.enter10Pan,
+.enter12Digit {
+  position: absolute;
+  top: 269px;
+  left: 509px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.enter10Pan,
+.enter12Digit {
+  top: 565px;
+  left: 513px;
+}
+.enter12Digit {
+  left: 880px;
+}
+.address {
+  position: absolute;
+  top: 369px;
+  left: 130px;
+  font-weight: 500;
+}
+.karigarPopupChild4 {
+  position: absolute;
+  top: 409px;
+  left: 130px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.enterAddress {
+  position: absolute;
+  top: 419px;
+  left: 146px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.city,
+.karigarPopupChild5 {
+  position: absolute;
+  left: 497px;
+}
+.city {
+  top: 369px;
+  font-weight: 500;
+}
+.karigarPopupChild5 {
+  top: 409px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.enterCity {
+  position: absolute;
+  top: 419px;
+  left: 513px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.pincode {
+  position: absolute;
+  top: 369px;
+  left: 864px;
+  font-weight: 500;
+}
+.karigarPopupChild6 {
+  position: absolute;
+  top: 409px;
+  left: 864px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gray-100);
+  box-sizing: border-box;
+  width: 296px;
+  height: 44px;
+}
+.enter16Digit,
+.enterPincode {
+  position: absolute;
+  top: 419px;
+  left: 880px;
+  font-size: var(--font-size-xl);
+  color: var(--color-gray-100);
+}
+.enter16Digit {
+  top: 566px;
+  left: 146px;
+}
+.closeIcon,
+.eparrowDownIcon,
+.mditick {
+  position: absolute;
+  top: 139px;
+  left: 382px;
+  width: 37px;
+  height: 37px;
+  overflow: hidden;
+}
+.closeIcon,
+.mditick {
+  top: 93px;
+  left: 388px;
+  width: 24px;
+  height: 24px;
+}
+.closeIcon {
+  top: 18px;
+  left: 1166px;
+  width: 29px;
+  height: 29px;
+}
+.karigarPartyAccountChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro);
+  width: 136px;
+  height: 42px;
+}
+.karigar {
+  position: absolute;
+  top: 6px;
+  left: 20px;
+  font-weight: 500;
+}
+.carboncloseFilledIcon {
+  position: absolute;
+  top: 13px;
+  left: 105px;
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+}
+.bullionPartyAccountChild,
+.karigarPartyAccount {
+  position: absolute;
+  top: 133px;
+  left: 461px;
+  width: 136px;
+  height: 42px;
+}
+.bullionPartyAccountChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lavender);
+}
+.carboncloseFilledIcon1 {
+  position: absolute;
+  top: 13px;
+  left: 104px;
+  width: 19px;
+  height: 19px;
+  overflow: hidden;
+}
+.bullionPartyAccount,
+.saveButtonChild {
+  position: absolute;
+  top: 133px;
+  left: 615px;
+  width: 136px;
+  height: 42px;
+}
+.saveButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslategray);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 123px;
+  height: 41px;
+}
+.save {
+  position: absolute;
+  top: 6px;
+  left: 36px;
+}
+.cancelButtonChild,
+.saveButton {
+  position: absolute;
+  width: 123px;
+  height: 41px;
+}
+.saveButton {
+  top: 720px;
+  left: 1037px;
+  color: var(--color-white);
+}
+.cancelButtonChild {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.cancel {
+  position: absolute;
+  top: 6px;
+  left: 25px;
+}
+.cancelButton,
+.zondiconscamera {
+  position: absolute;
+  top: 720px;
+  left: 884px;
+  width: 123px;
+  height: 41px;
+}
+.zondiconscamera {
+  top: 31px;
+  left: 183px;
+  width: 26px;
+  height: 26px;
+  overflow: hidden;
+}
+.karigarPopup {
+  position: absolute;
+  top: 119px;
+  left: 255px;
+  width: 1217px;
+  height: 800px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-sf-pro);
+}

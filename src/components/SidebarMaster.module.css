@@ -1,0 +1,222 @@
+.sidebar {
+  background-color: var(--color-white);
+}
+.dashboardSidebarChild,
+.menuSidebar,
+.sidebar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 235px;
+  height: 1080px;
+}
+.dashboardSidebarChild {
+  top: 43px;
+  background-color: var(--color-darkslategray);
+  height: 30px;
+}
+.karigar {
+  position: absolute;
+  top: 46px;
+  left: 75px;
+  color: var(--color-white);
+}
+.bullion,
+.customer,
+.supplier {
+  position: absolute;
+  top: 76px;
+  left: 75px;
+}
+.customer,
+.supplier {
+  top: 106px;
+}
+.customer {
+  top: 136px;
+}
+.iconMinusRectangle,
+.vectorIcon {
+  position: absolute;
+  height: 9.38%;
+  width: 7.66%;
+  top: 4.38%;
+  right: 82.98%;
+  bottom: 86.25%;
+  left: 9.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.iconMinusRectangle {
+  height: 10%;
+  width: 6.81%;
+  right: 21.28%;
+  bottom: 85.63%;
+  left: 71.91%;
+}
+.dashboard {
+  position: absolute;
+  top: 0;
+  left: 47px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-darkslategray);
+}
+.dashboardSidebar {
+  position: absolute;
+  top: 136px;
+  left: 0;
+  width: 235px;
+  height: 160px;
+}
+.addOrnament,
+.boxes,
+.stock,
+.transactions {
+  position: absolute;
+  top: 62px;
+  left: 55px;
+}
+.addOrnament,
+.boxes,
+.stock {
+  top: 35px;
+}
+.boxes,
+.stock {
+  top: 90px;
+}
+.stock {
+  top: 0;
+  left: 27px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkslategray);
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 14%;
+  width: 8.47%;
+  top: 6.16%;
+  right: 91.53%;
+  bottom: 79.84%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 14.04%;
+  top: 5.26%;
+  right: 40.21%;
+  bottom: 80.7%;
+  left: 51.32%;
+}
+.stockSidebar {
+  position: absolute;
+  top: 313px;
+  left: 20px;
+  width: 189px;
+  height: 114px;
+}
+.accounts,
+.cashbook,
+.daybook {
+  position: absolute;
+  top: 38px;
+  left: 58px;
+}
+.accounts,
+.daybook {
+  top: 66px;
+}
+.accounts {
+  top: 0;
+  left: 30px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkslategray);
+}
+.heroiconscurrencyRupee20So,
+.iconMinusRectangle1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.iconMinusRectangle1 {
+  height: 17.78%;
+  width: 10.19%;
+  top: 8.89%;
+  right: 0;
+  bottom: 73.33%;
+  left: 89.81%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.accountsSidebar {
+  position: absolute;
+  top: 444px;
+  left: 17px;
+  width: 157px;
+  height: 90px;
+}
+.settings,
+.shortcuts,
+.userMatrix {
+  position: absolute;
+  top: 43px;
+  left: 53.42px;
+}
+.settings,
+.shortcuts {
+  top: 71px;
+}
+.settings {
+  top: 0;
+  left: 25.42px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkslategray);
+}
+.maskGroupIcon,
+.vectorIcon3 {
+  position: absolute;
+  height: 20%;
+  width: 11.92%;
+  top: 5.26%;
+  right: 89.07%;
+  bottom: 74.74%;
+  left: -0.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon3 {
+  height: 16.84%;
+  width: 10.04%;
+  top: 8.42%;
+  right: 12.55%;
+  left: 77.42%;
+}
+.settingsSidebar,
+.sidebarMaster {
+  position: absolute;
+  top: 551px;
+  left: 21.58px;
+  width: 159.42px;
+  height: 95px;
+}
+.sidebarMaster {
+  top: 0;
+  left: 0;
+  width: 235px;
+  height: 1080px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-sf-pro);
+}

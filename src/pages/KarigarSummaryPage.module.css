@@ -1,0 +1,251 @@
+.karigarSummaryPageChild {
+  position: absolute;
+  top: 388px;
+  left: 235px;
+  background-color: #f9f9f9;
+  width: 1415px;
+  height: 692px;
+}
+.topLeftProfile {
+  position: absolute;
+  top: 20px;
+  left: 1573px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.searchKarigarChild,
+.searchKarigarItem {
+  border: 1px solid var(--color-dimgray-200);
+  background-color: var(--color-white);
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  box-sizing: border-box;
+  width: 294px;
+  height: 41px;
+}
+.searchKarigarItem {
+  top: 2px;
+  left: 318px;
+  border-radius: var(--br-mini);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-darkslategray);
+  width: 98px;
+  height: 38px;
+}
+.search,
+.searchKarigar1 {
+  position: absolute;
+  top: 9px;
+  left: 334px;
+  display: inline-block;
+  width: 67px;
+}
+.searchKarigar1 {
+  top: 6px;
+  left: 21px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-silver);
+  width: 203.28px;
+  height: 29.03px;
+}
+.searchKarigar {
+  position: absolute;
+  top: 325px;
+  left: 293px;
+  width: 416px;
+  height: 41px;
+}
+.vectorIcon {
+  position: relative;
+  width: 14px;
+  height: 17px;
+}
+.export {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-sf-pro);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  flex-shrink: 0;
+}
+.exportButton,
+.metalToggleChild {
+  position: absolute;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-darkslategray);
+  box-sizing: border-box;
+}
+.exportButton {
+  cursor: pointer;
+  padding: 0 7px 0 13px;
+  top: 341px;
+  left: 1490px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  width: 109px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.metalToggleChild {
+  top: 0;
+  left: 200px;
+  width: 103px;
+  height: 36px;
+}
+.gold {
+  left: 21px;
+}
+.both,
+.gold,
+.silver {
+  position: absolute;
+  top: 4px;
+  font-weight: 500;
+}
+.both {
+  left: 224px;
+  color: var(--color-darkslategray);
+}
+.silver {
+  left: 119px;
+}
+.metalToggle {
+  position: absolute;
+  top: 48px;
+  left: 293px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-100);
+  border: 1px solid #aaa7a7;
+  box-sizing: border-box;
+  width: 302px;
+  height: 36px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+}
+.easily {
+  color: var(--color-darkslategray);
+}
+.businessMadeEasy,
+.doeasily {
+  position: relative;
+  display: inline-block;
+  width: 116px;
+  height: 35px;
+  flex-shrink: 0;
+}
+.businessMadeEasy {
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslategray);
+  width: 132px;
+  height: 17px;
+  margin-top: -5px;
+}
+.doeasilyLogo {
+  width: 132px;
+  height: 47px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.dashboardSidebarChild {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  background-color: var(--color-darkslategray);
+  width: 235px;
+  height: 30px;
+}
+.karigar {
+  position: absolute;
+  top: 46px;
+  left: 75px;
+  color: var(--color-white);
+}
+.bullion,
+.customer,
+.supplier {
+  position: absolute;
+  top: 76px;
+  left: 75px;
+}
+.customer,
+.supplier {
+  top: 106px;
+}
+.customer {
+  top: 136px;
+}
+.vectorIcon1,
+.vectorIcon2 {
+  position: absolute;
+  height: 9.38%;
+  width: 7.66%;
+  top: 4.38%;
+  right: 82.98%;
+  bottom: 86.25%;
+  left: 9.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon2 {
+  height: 10%;
+  width: 6.81%;
+  right: 38.3%;
+  bottom: 85.63%;
+  left: 54.89%;
+}
+.parties {
+  position: absolute;
+  top: 0;
+  left: 47px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-darkslategray);
+}
+.dashboardSidebar {
+  position: relative;
+  width: 235px;
+  height: 160px;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+}
+.karigarSummaryPage,
+.sidebarMaster {
+  background-color: var(--color-white);
+  height: 1080px;
+}
+.sidebarMaster {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 235px;
+  display: flex;
+  flex-direction: column;
+  padding: 49px 0;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: var(--font-size-13xl);
+  color: #c5a8de;
+}
+.karigarSummaryPage {
+  position: relative;
+  width: 100%;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkslategray);
+  font-family: var(--font-sf-pro);
+}

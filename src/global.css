@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=SF+Pro:wght@300;400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-sf-pro: "SF Pro";
+  --font-montserrat: Montserrat;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-13xl: 32px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gainsboro: #e0e4eb;
+  --color-slategray: #4f617d;
+  --color-indianred: #bc5c5c;
+  --color-brown: #c54242;
+  --color-darkslategray: #484848;
+  --color-mediumseagreen: #55a654;
+  --color-dimgray-100: #5a5a5a;
+  --color-dimgray-200: rgba(80, 79, 79, 0.46);
+  --color-gray-100: #8e8e8e;
+  --color-gray-200: #462c2c;
+  --color-yellowgreen: #72a701;
+  --color-thistle: #d1ccf6;
+  --color-ghostwhite: #f7f6ff;
+  --color-silver: #bbb;
+  --color-whitesmoke-100: #eee;
+  --color-black: #000;
+  --color-lavender: #ebe4ff;
+
+  /* Gaps */
+  --gap-9xs: 4px;
+
+  /* Paddings */
+  --padding-smi-2: 12.2px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-11xl: 30px;
+  --br-xl: 20px;
+}

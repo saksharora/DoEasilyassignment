@@ -1,0 +1,79 @@
+.karigarBoxChild,
+.karigarRect {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 617px;
+  height: 158px;
+}
+.karigarRect {
+  top: 7px;
+  left: 6px;
+  background-color: var(--color-white);
+  width: 605px;
+  height: 145px;
+}
+.amount,
+.p {
+  margin: 0;
+  font-weight: 300;
+}
+.p {
+  font-weight: 600;
+  color: var(--color-yellowgreen);
+}
+.amount1356000,
+.gold1239GmContainer {
+  position: absolute;
+  top: 73px;
+  left: 384.73px;
+  display: inline-block;
+  width: 156.09px;
+  height: 39.16px;
+}
+.gold1239GmContainer {
+  left: 200.81px;
+  width: 145.2px;
+  height: 33.71px;
+}
+.span {
+  font-family: var(--font-sf-pro);
+}
+.kg1 {
+  font-weight: 600;
+}
+.kg {
+  margin: 0;
+  color: var(--color-brown);
+}
+.karigar,
+.silver142Kg {
+  position: absolute;
+  top: 73px;
+  left: 45.93px;
+  display: inline-block;
+  width: 117.37px;
+  height: 39.53px;
+}
+.karigar {
+  top: 24.44px;
+  left: 47.14px;
+  font-weight: 600;
+  color: var(--color-slategray);
+  width: 203.28px;
+  height: 29.03px;
+}
+.karigarBox {
+  position: absolute;
+  top: 162px;
+  left: 293px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 617px;
+  height: 158px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}

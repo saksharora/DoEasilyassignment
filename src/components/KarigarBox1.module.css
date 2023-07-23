@@ -1,0 +1,116 @@
+.karigarRect {
+  position: absolute;
+  top: 7px;
+  left: 5px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 605px;
+  height: 186px;
+}
+.amount {
+  margin: 0;
+  font-weight: 300;
+  color: var(--color-darkslategray);
+}
+.p {
+  margin: 0;
+  font-weight: 600;
+}
+.amount185000DenaContainer {
+  position: absolute;
+  top: 87px;
+  left: 451px;
+  display: inline-block;
+  width: 156px;
+  height: 85px;
+  color: var(--color-mediumseagreen);
+}
+.gold25966GmContainer {
+  position: absolute;
+  top: 87px;
+  left: 240px;
+  display: inline-block;
+  width: 145px;
+}
+.blankLine,
+.silver {
+  font-family: var(--font-sf-pro);
+}
+.silver {
+  font-weight: 300;
+  color: var(--color-darkslategray);
+}
+.blankLine {
+  color: var(--color-brown);
+}
+.kg {
+  font-weight: 600;
+}
+.silver14200Kg {
+  margin: 0;
+}
+.party,
+.silver14200KgLenaContainer {
+  position: absolute;
+  top: 87px;
+  left: 45px;
+  display: inline-block;
+  width: 117px;
+  height: 85px;
+}
+.party {
+  top: 33px;
+  left: 46.14px;
+  font-weight: 600;
+  color: var(--color-slategray);
+  width: 203.28px;
+  height: 29.03px;
+}
+.vectorIcon {
+  position: relative;
+  width: 15.22px;
+  height: 15px;
+}
+.addParty {
+  position: relative;
+  font-size: var(--font-size-base);
+  font-family: var(--font-sf-pro);
+  color: var(--color-slategray);
+  text-align: left;
+  display: inline-block;
+  width: 75.06px;
+  flex-shrink: 0;
+}
+.addKarigarButton {
+  cursor: pointer;
+  border: 1px solid var(--color-slategray);
+  padding: 0 12.172661781311035px;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 35px;
+  left: 137px;
+  border-radius: var(--br-mini);
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 122px;
+  height: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.karigarBox {
+  position: absolute;
+  top: 104px;
+  left: 293px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 617px;
+  height: 201px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-indianred);
+  font-family: var(--font-sf-pro);
+}

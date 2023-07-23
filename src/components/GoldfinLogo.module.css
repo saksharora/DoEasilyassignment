@@ -1,0 +1,36 @@
+.goldfinLogoChild,
+.goldfinLogoItem {
+  position: absolute;
+  height: 60.24%;
+  width: 89.04%;
+  top: 0;
+  right: 4.94%;
+  bottom: 39.76%;
+  left: 6.01%;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.goldfinLogoItem {
+  top: 12.05%;
+  right: -6.01%;
+  bottom: 27.71%;
+  left: 16.97%;
+  opacity: 0.7;
+}
+.goldfin {
+  position: absolute;
+  top: 75.9%;
+  left: 6.85%;
+  font-weight: 500;
+}
+.goldfinLogo {
+  position: relative;
+  width: 73px;
+  height: 83px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-montserrat);
+}
